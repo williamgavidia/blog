@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/post/instalacion-git/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/bienvenido/</loc>
+    <lastmod>2023-05-29T03:33:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contacto/</loc>
+    <lastmod>2023-05-29T03:27:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/control-de-versiones/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/debian/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/development/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/git/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/git/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/linux/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2023-05-29T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

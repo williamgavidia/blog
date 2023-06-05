@@ -1,0 +1,59 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-sustain"
+
+[params]
+  avatar = "img/profile.jpg"
+  author = "Wuilliam Gavidia"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "williamgavidia"
+  Email         = "zerpaw@gmail.com"
+  Twitter       = "Wzerpa_g"
+  Telegram      = "@Sirseveruswilliam"
+
+[menu]
+## Main Menu
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 100
+  url = "/projects/"
+[[menu.main]]
+        identifier = "Contacto"
+        name = "Contacto"
+        title = "Contacto"
+        url = "/contacto/"
+        weight= 200
+    [[menu.main]]
+        identifier = "post"
+        name = "Post"
+        title = "Post"
+        url = "/post/"
+        weight= 300
+
+
+
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
