@@ -10,8 +10,9 @@ Para nadie es un secreto mi pasion por el anime, en especial por *NARUTO* y de a
 
 El nombre *"SASUKE"* esta compuesto por dos caracteres en kanji *"Sa"* y *"suke"*. *"Sa"* significa *"asistir"* o *"ayudar"*, mientras que *"suke"* puede traducirse como *"ayuda"* o *"asistencia"*. Por lo tanto, el nombre de *SASUKE* puede interpretarse como *"el que ayuda"* o *"el que asiste"*.
 
-Este personaje tiene un significado profundo y simbolico en la historia de **Naruto** y me identifico con el.
+![Sasuke](/static/img/sasuke.jpg)
 
+Este personaje tiene un significado profundo y simbolico en la historia de **Naruto** y me identifico con el.
 
 
 <p align="center">Gracias por tu Visita!! </p>
