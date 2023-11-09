@@ -143,7 +143,7 @@ z-index: 3;
   .container 
   {
     max-width: 800px;
-    text-align: center;
+    text-align: justify;
   }
 
   .container a 
@@ -162,6 +162,7 @@ z-index: 3;
     border-bottom: 5px solid #0fadc9;
     padding: 50px 20px;
     text-decoration: none !important;
+    text-align: justify;
   }
   
   .social-links {
@@ -191,7 +192,7 @@ z-index: 3;
   }
   
   .social-links li a:hover {
-    color: #000;
+    color: #0fadc9;
   }
   
   
