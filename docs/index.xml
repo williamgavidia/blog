@@ -12,14 +12,24 @@
     
     
     <item>
+      <title>Contacto</title>
+      <link>https://williamgavidia.github.io/blog/contacto/</link>
+      <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/contacto/</guid>
+      <description>Soy Wuilliam Gavidia, Ingeniero en Informatica.
+Me encanta todo lo relacionado con la informática y el mundo tecnologico.
+MIS DOS PASIONES   Soy un ninja de la informatica que domina el arte del codigo con mi chakra y mi logica resuelvo cualquier problema o reto Me gusta programar con pasion y crear aplicaciones geniales usando el mejor algoritmo y los lenguajes mas actuales Tambien soy fan de Naruto y de sus mundo de aventuras me inspira su espiritu indomable y su camino del ninja Por eso en mi blog comparto mis dos grandes aficiones el anime y la informatica son mis mejores pasiones   Contactame @username o por email.</description>
+    </item>
+    
+    <item>
       <title>Sasuke!</title>
       <link>https://williamgavidia.github.io/blog/post/porque-sasuke/</link>
       <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
       
       <guid>https://williamgavidia.github.io/blog/post/porque-sasuke/</guid>
-      <description>Para nadie es un secreto mi pasion por el anime, en especial por NARUTO y de ahi nace el nombre de este blog.
-El nombre &amp;ldquo;SASUKE&amp;rdquo; esta compuesto por dos caracteres en kanji &amp;ldquo;Sa&amp;rdquo; y &amp;ldquo;suke&amp;rdquo;. &amp;ldquo;Sa&amp;rdquo; significa &amp;ldquo;asistir&amp;rdquo; o &amp;ldquo;ayudar&amp;rdquo;, mientras que &amp;ldquo;suke&amp;rdquo; puede traducirse como &amp;ldquo;ayuda&amp;rdquo; o &amp;ldquo;asistencia&amp;rdquo;. Por lo tanto, el nombre de SASUKE puede interpretarse como &amp;ldquo;el que ayuda&amp;rdquo; o &amp;ldquo;el que asiste&amp;rdquo;.
-Este personaje tiene un significado profundo y simbolico en la historia de Naruto y me identifico con el.</description>
+      <description>Para empezar y explicarles como se me ocurrió la idea del nombre para el blog, y para nadie es un secreto mi pasión por la informatica y el anime, en especial por Naruto y de ahí nace el nombre de este blog, es muy original y creativo.
+El nombre &amp;ldquo;SASUKE&amp;rdquo; tiene un origen japones y esta compuesto por dos caracteres en kanji &amp;ldquo;Sa&amp;rdquo; y &amp;ldquo;suke&amp;rdquo;. &amp;ldquo;Sa&amp;rdquo; significa &amp;ldquo;asistir&amp;rdquo; o &amp;ldquo;ayudar&amp;rdquo;, mientras que &amp;ldquo;suke&amp;rdquo; puede traducirse como &amp;ldquo;ayuda&amp;rdquo; o &amp;ldquo;asistencia&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -57,18 +67,6 @@ Gracias por tu Visita!! Comienza ya a Conocer el Blog&amp;hellip;</description>
 
 Para instalar el editor, solo hay que agregar un repositorio donde se encuentra el instalador, con la siguiente línea.
 sudo add-apt-repository ppa:webupd8team/sublime-text-3  Luego hacemos una actualización de todas las cabeceras de los repositorios que tenemos (algo muy rápido).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://williamgavidia.github.io/blog/contacto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://williamgavidia.github.io/blog/contacto/</guid>
-      <description>Soy Wuilliam Gavidia, Ingeniero en Informatica.
-Me encanta todo lo relacionado con la informática y el mundo tecnologico.
-Echa un vistazo a algunos de mis proyectos de trabajo.
-Contactame @username or by email.</description>
     </item>
     
   </channel>
