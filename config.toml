@@ -21,11 +21,6 @@ theme = "hugo-sustain"
 [menu]
 ## Main Menu
 [[menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 100
-  url = "/projects/"
-[[menu.main]]
         identifier = "Contacto"
         name = "Contacto"
         title = "Contacto"
