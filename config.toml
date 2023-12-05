@@ -8,6 +8,9 @@ theme = "hugo-sustain"
   author = "Wuilliam Gavidia"
   description = "Describe your website"
 
+[author]
+  name = "Wuilliam Gavidia Zerpa"
+
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
