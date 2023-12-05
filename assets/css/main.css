@@ -168,7 +168,7 @@ z-index: 3;
   .social-links {
     display: flex;
     position:absolute;
-    top: 77%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%,-50%);
     animation: fade 1s ease 1s bo
@@ -178,7 +178,7 @@ z-index: 3;
     display: flex;
     margin: 0 30px;
     list-style: none;
-    padding: 15px;
+    padding: 30px;
     padding-top: 0;
     text-align: center;
   }

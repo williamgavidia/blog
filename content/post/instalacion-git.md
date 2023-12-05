@@ -8,7 +8,9 @@ description : 'spf13-vim is a cross platform distribution of vim plugins and res
 
 ---
 <br>
-![Git](../../../images/Git-Logo.png)
+<p align="center">
+<img src="../../img/Git-Logo.png" width="500" height="200"/>
+</p>
 
 <br>
 <br>
