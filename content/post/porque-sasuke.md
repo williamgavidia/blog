@@ -1,8 +1,8 @@
 ---
-title:  "Sasuke!"
+title:  "Por que Sasuke!"
 description: "Un espacio abierto e interactivo dedicado a la informatica, diseno grafico, etc."
 comments: true
-date: 2023-11-03T04:27:07-05:00
+date: 2023-11-01T04:27:07-05:00
 draft: false
 ---
 

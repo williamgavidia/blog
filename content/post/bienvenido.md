@@ -1,7 +1,7 @@
 ---
 title:  "Bienvenidos al Blog de Sasuke!"
 description: "Un espacio abierto e interactivo dedicado a la informatica, diseno grafico, etc."
-date: 2023-05-29T03:33:50-05:00
+date: 2023-10-29T03:33:50-05:00
 comments: true
 draft: false
 ---

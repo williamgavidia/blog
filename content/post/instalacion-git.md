@@ -1,6 +1,6 @@
 ---
 title: "Instalacion Git"
-date: 2023-05-29T04:27:07-05:00
+date: 2023-11-11T04:27:07-05:00
 draft: false
 categories : ['Development', 'GIT']
 tags : ['linux', 'debian', 'control de versiones', 'git']

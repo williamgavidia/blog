@@ -6,10 +6,35 @@
     <description>Recent content in Posts on Sasuke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2023 04:27:07 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 18:00:52 +0000</lastBuildDate>
     
 	<atom:link href="https://williamgavidia.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Instalacion Sublime Text 3</title>
+      <link>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</link>
+      <pubDate>Sun, 26 Nov 2023 18:00:52 +0000</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</guid>
+      <description>A continuación vamos a ver las tres sencillas líneas para tener instalado en nuestro sistema Debian , Ubuntu, Linux Mint y sus derivadas uno de los mejores editores de texto que he podido probar, simple y potente Sublime Text 3.
+ 
+
+Para instalar el editor, solo hay que agregar un repositorio donde se encuentra el instalador, con la siguiente línea.
+sudo add-apt-repository ppa:webupd8team/sublime-text-3  Luego hacemos una actualización de todas las cabeceras de los repositorios que tenemos (algo muy rápido).</description>
+    </item>
+    
+    <item>
+      <title>Instalacion Git</title>
+      <link>https://williamgavidia.github.io/blog/post/instalacion-git/</link>
+      <pubDate>Sat, 11 Nov 2023 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/instalacion-git/</guid>
+      <description>Git es un sistema de control de versiones distribuido y diseñado para manejar todo tipo de proyectos, desde pequeños hasta muy grandes con gran velocidad y eficiencia. Y por si fuera poco es libre y de código abierto.
+A continuación veremos como instalar Git:
+Instalando Git 
+A continuación quiero guiarles paso a paso como instalarlo. Puedes obtenerlo de varias maneras; las dos principales son instalarlo desde código fuente, o instalar un paquete existente para tu plataforma.</description>
+    </item>
     
     <item>
       <title>Que es Hugo</title>
@@ -23,9 +48,9 @@ Hugo se destaca por ser el framework mas rapido del mundo para construir sitios 
     </item>
     
     <item>
-      <title>Sasuke!</title>
+      <title>Por que Sasuke!</title>
       <link>https://williamgavidia.github.io/blog/post/porque-sasuke/</link>
-      <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
+      <pubDate>Wed, 01 Nov 2023 04:27:07 -0500</pubDate>
       
       <guid>https://williamgavidia.github.io/blog/post/porque-sasuke/</guid>
       <description>Para empezar y explicarles como se me ocurrió la idea del nombre para el blog, y para nadie es un secreto mi pasión por la informatica y el anime, en especial por Naruto y de ahí nace el nombre de este blog, es muy original y creativo.
@@ -33,40 +58,15 @@ El nombre &amp;ldquo;SASUKE&amp;rdquo; tiene un origen japones y esta compuesto 
     </item>
     
     <item>
-      <title>Instalacion Git</title>
-      <link>https://williamgavidia.github.io/blog/post/instalacion-git/</link>
-      <pubDate>Mon, 29 May 2023 04:27:07 -0500</pubDate>
-      
-      <guid>https://williamgavidia.github.io/blog/post/instalacion-git/</guid>
-      <description>Git es un sistema de control de versiones distribuido y diseñado para manejar todo tipo de proyectos, desde pequeños hasta muy grandes con gran velocidad y eficiencia. Y por si fuera poco es libre y de código abierto.
-A continuación veremos como instalar Git:
-Instalando Git 
-A continuación quiero guiarles paso a paso como instalarlo. Puedes obtenerlo de varias maneras; las dos principales son instalarlo desde código fuente, o instalar un paquete existente para tu plataforma.</description>
-    </item>
-    
-    <item>
       <title>Bienvenidos al Blog de Sasuke!</title>
       <link>https://williamgavidia.github.io/blog/post/bienvenido/</link>
-      <pubDate>Mon, 29 May 2023 03:33:50 -0500</pubDate>
+      <pubDate>Sun, 29 Oct 2023 03:33:50 -0500</pubDate>
       
       <guid>https://williamgavidia.github.io/blog/post/bienvenido/</guid>
       <description>Queridos amigos del mundo informatico y tecnologico, es un placer para mi darles la mas cordial bienvenida a la inauguracion de mi blog, un medio para expresar mi conocimiento.
 Por medio de esta plataforma te mantendre al tanto de mis proyectos, y mis ideas en el cual podras afianzar tus conocimientos.
 Espero sea esta una forma de ayudar y contribuir..
 Gracias por tu Visita!! Comienza ya a Conocer el Blog&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Instalacion Sublime Text 3</title>
-      <link>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</link>
-      <pubDate>Sat, 26 Mar 2016 18:00:52 +0000</pubDate>
-      
-      <guid>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</guid>
-      <description>A continuación vamos a ver las tres sencillas líneas para tener instalado en nuestro sistema Debian , Ubuntu, Linux Mint y sus derivadas uno de los mejores editores de texto que he podido probar, simple y potente Sublime Text 3.
- 
-
-Para instalar el editor, solo hay que agregar un repositorio donde se encuentra el instalador, con la siguiente línea.
-sudo add-apt-repository ppa:webupd8team/sublime-text-3  Luego hacemos una actualización de todas las cabeceras de los repositorios que tenemos (algo muy rápido).</description>
     </item>
     
   </channel>
