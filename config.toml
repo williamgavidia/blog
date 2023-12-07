@@ -1,12 +1,12 @@
 baseURL = "https://williamgavidia.github.io/blog/"
-languageCode = "en-us"
+languageCode = "es"
 title = "Sasuke"
 theme = "hugo-sustain"
 
 [params]
   avatar = "img/profile.jpg"
   author = "Wuilliam Gavidia"
-  description = "Describe your website"
+  description = "Un Espacio abierto e interactivo, dedicado a la tecnologia"
 
 [author]
   name = "Wuilliam Gavidia Zerpa"
