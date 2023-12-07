@@ -28,11 +28,13 @@ A continuación veremos como instalar Git:<br><br>
 <br>
 Para instalar Git, necesitas tener las siguientes librerías de las que Git depende: curl, zlib, openssl, expat y libiconv. Por ejemplo, si estás en un sistema que tiene yum (como <strong>Fedora</strong> ) o apt-get (como un sistema basado en <strong>Debian</strong>), puedes usar estos comandos para instalar todas las dependencias:<br>
 
+<div class="b">
 
-```shell-session
+<pre>
 $ yum install curl-devel expat-devel gettext-devel \
-  openssl-devel zlib-devel
-```
+  openssl-devel zlib-devel 
+</pre>
+
 
 ```bash
 $ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
@@ -118,7 +120,7 @@ $ pkg install developer/versioning/git
 ```shell-session
 $ pkg_add git
 ```
-
+</div>
 <br>
 
 [git]:      https://git-scm.co
