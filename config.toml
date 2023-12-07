@@ -29,6 +29,7 @@ theme = "hugo-sustain"
         title = "Contacto"
         url = "/contacto/"
         weight= 200
+
     [[menu.main]]
         identifier = "post"
         name = "Post"
@@ -36,6 +37,9 @@ theme = "hugo-sustain"
         url = "/post/"
         weight= 300
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-7392E94N79'
 
 [markup]
   [markup.highlight]
