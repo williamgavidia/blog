@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Sasuke</title>
+    <link>https://williamgavidia.github.io/blog/tags/google/</link>
+    <description>Recent content in Google on Sasuke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 07 Jan 2024 04:27:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://williamgavidia.github.io/blog/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Que es GO</title>
+      <link>https://williamgavidia.github.io/blog/post/que-es-go/</link>
+      <pubDate>Sun, 07 Jan 2024 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/que-es-go/</guid>
+      <description>Go es un lenguaje de programación de código abierto creado por Google. Es un lenguaje de programación compilado diseñado para ser seguro, eficiente y conciso.
+Su enfoque en la concurrencia, su sintaxis clara y sencilla y su capacidad para manejar grandes sistemas son los principales atributos de Go.
+El soporte integrado para la concurrencia de GO es una de sus características distintivas. Los primitivos de concurrencia de Go, como los goroutines y los canales, facilitan la escritura segura de programas concurrentes.</description>
+    </item>
+    
+  </channel>
+</rss>

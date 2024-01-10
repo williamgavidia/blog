@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollador Web on Sasuke</title>
+    <link>https://williamgavidia.github.io/blog/tags/desarrollador-web/</link>
+    <description>Recent content in Desarrollador Web on Sasuke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 03 Nov 2023 04:27:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://williamgavidia.github.io/blog/tags/desarrollador-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Que es Hugo</title>
+      <link>https://williamgavidia.github.io/blog/post/que-es-hugo/</link>
+      <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/que-es-hugo/</guid>
+      <description>Hugo es un framework para desarrollar sitios web estaticos, es decir, sitios que no requieren de programacion del lado del servidor ni de una base de datos.
+Hugo esta escrito en el lenguaje de programacion GO, que es muy rapido y eficiente. Hugo permite crear sitios web con contenido facil de editar, plantillas personalizables, multiples formatos de salida, soporte multiligue y muchas otras caracteristicas.
+Hugo se destaca por ser el framework mas rapido del mundo para construir sitios web, ya que puede generar miles de paginas en pocos segundos.</description>
+    </item>
+    
+  </channel>
+</rss>

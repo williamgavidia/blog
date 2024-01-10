@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programacion on Sasuke</title>
+    <link>https://williamgavidia.github.io/blog/categories/programacion/</link>
+    <description>Recent content in Programacion on Sasuke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 26 Nov 2023 18:00:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://williamgavidia.github.io/blog/categories/programacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instalacion Sublime Text 3</title>
+      <link>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</link>
+      <pubDate>Sun, 26 Nov 2023 18:00:52 +0000</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</guid>
+      <description>A continuación vamos a ver las tres sencillas líneas para tener instalado en nuestro sistema Debian , Ubuntu, Linux Mint y sus derivadas uno de los mejores editores de texto que he podido probar, simple y potente Sublime Text 3.
+ 
+
+Para instalar el editor, solo hay que agregar un repositorio donde se encuentra el instalador, con la siguiente línea.
+ $ sudo add-apt-repository ppa:webupd8team/sublime-text-3  Luego hacemos una actualización de todas las cabeceras de los repositorios que tenemos (algo muy rápido).</description>
+    </item>
+    
+  </channel>
+</rss>

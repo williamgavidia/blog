@@ -1,5 +1,5 @@
 baseURL = "https://williamgavidia.github.io/blog/"
-languageCode = "es"
+languageCode = "es-es"
 title = "Sasuke"
 theme = "hugo-sustain"
 
@@ -40,6 +40,8 @@ theme = "hugo-sustain"
 [services]
   [services.googleAnalytics]
     ID = 'G-7392E94N79'
+  [services.disqus]
+    shortname = 'williangavidia'
 
 [markup]
   [markup.highlight]
