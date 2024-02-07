@@ -1,6 +1,5 @@
 ---
 title: "Que es GITHUB"
-comments: true
 date: 2024-02-06T04:27:07-05:00
 tags: ["lenguaje de programacion", "control de versiones", "git"]
 draft: false
