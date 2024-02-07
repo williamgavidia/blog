@@ -6,10 +6,20 @@
     <description>Recent content on Sasuke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 07 Jan 2024 04:27:07 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 04:27:07 -0500</lastBuildDate>
     
 	<atom:link href="https://williamgavidia.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Que es GITHUB</title>
+      <link>https://williamgavidia.github.io/blog/post/que-es-github/</link>
+      <pubDate>Tue, 06 Feb 2024 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/que-es-github/</guid>
+      <description>Github es un servicio de alojamiento de repositorio de Git de código abierto y basado en la nube con una interfaz gráfica basada en la web.
+Como desarrollador web, esta puede ser una excelente plataforma para desarrollar una marca personal y ampliar tus redes. Además, GitHub ofrece herramientas de gestión de proyectos adaptables que ayudan a las organizaciones adaptarse a cualquier flujo de trabajo, proyecto o equipo.</description>
+    </item>
     
     <item>
       <title>Que es GO</title>
