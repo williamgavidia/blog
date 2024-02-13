@@ -3,6 +3,7 @@
     font-style: normal;
     /* The html and body elements cannot have any padding or margin. */
     border-top: 3px solid #0fadc9;
+    transition: all 1.5s ease;
   }
 
   #content {
@@ -247,7 +248,24 @@ z-index: 3;
   overflow-x: auto;
 }
  
-  
+#toggle{
+  display: none;
+}
+
+#label_toggle{
+  position: absolute;
+  top: 10px;
+  right: -50px;
+  font-size: 1.5em;
+  color: #0fadc9;
+  cursor: pointer;
+}
+
+.dark{
+  background-color: #333;
+  color: white;
+  transition: all 1.5s ease;
+}
   
 
   
