@@ -119,22 +119,19 @@ if (!doNotTrack) {
       </div>
       <div class="disqus">
         <div id="disqus_thread"></div>
-<script type="text/javascript">
-
-(function() {
+<script>
     
-    
-    if (window.location.hostname == "localhost")
-        return;
 
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = 'williangavidia';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-williamgavidia-github-io-blog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       </div>
     </div>
   </div>
@@ -144,7 +141,7 @@ if (!doNotTrack) {
     <footer class="footer">
   <div class="container">
     <div align="center">
-    <div class="text-muted">&copy; <time datetime="2024-02-13 06:17:27.845637484 -0500 -05 m=&#43;0.488344098">2024</time> Wuilliam Gavidia Zerpa ♥
+    <div class="text-muted">&copy; <time datetime="2024-02-13 06:48:25.571563504 -0500 -05 m=&#43;2.944933685">2024</time> Wuilliam Gavidia Zerpa ♥
   </div>  
 </div> 
   </div>
@@ -153,5 +150,6 @@ if (!doNotTrack) {
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
 
+    <script id="dsq-count-scr" src="//https-williamgavidia-github-io-blog.disqus.com/count.js" async></script>
   </body>
 </html>

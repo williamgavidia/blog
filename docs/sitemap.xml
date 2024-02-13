@@ -77,14 +77,14 @@
   </url>
   
   <url>
-    <loc>https://williamgavidia.github.io/blog/categories/git/</loc>
-    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
+    <loc>https://williamgavidia.github.io/blog/tags/git/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://williamgavidia.github.io/blog/tags/git/</loc>
-    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <loc>https://williamgavidia.github.io/blog/categories/git/</loc>
+    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,13 +131,13 @@
   </url>
   
   <url>
-    <loc>https://williamgavidia.github.io/blog/categories/projects/</loc>
+    <loc>https://williamgavidia.github.io/blog/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://williamgavidia.github.io/blog/tags/projects/</loc>
+    <loc>https://williamgavidia.github.io/blog/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
