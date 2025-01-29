@@ -1,7 +1,7 @@
 ---
 title: "Que es Termux"
 comments: true
-date: 2023-11-03T04:27:07-05:00
+date: 2025-01-28T04:27:07-05:00
 tags: ["sitios estaticos", "go", "desarrollador web", "termux"]
 draft: false
 ---
