@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control De Versiones on Sasuke</title>
+    <link>http://localhost:1313/blog/tags/control-de-versiones/</link>
+    <description>Recent content in Control De Versiones on Sasuke</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 06 Feb 2024 04:27:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/control-de-versiones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Que es GITHUB</title>
+      <link>http://localhost:1313/blog/post/que-es-github/</link>
+      <pubDate>Tue, 06 Feb 2024 04:27:07 -0500</pubDate>
+      <guid>http://localhost:1313/blog/post/que-es-github/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xA;&lt;img src=&#34;../../img/GitHub_Logo.png&#34; width=&#34;550&#34; height=&#34;200&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;Github&lt;/strong&gt; es un servicio de alojamiento de repositorio de Git de código abierto y basado en la nube con una interfaz gráfica basada en la web.&lt;/p&gt;&#xA;&lt;p&gt;Como desarrollador web, esta puede ser una excelente plataforma para desarrollar una marca personal y ampliar tus redes. Además, GitHub ofrece herramientas de gestión de proyectos adaptables que ayudan a las organizaciones adaptarse a cualquier flujo de trabajo, proyecto o equipo.&lt;/p&gt;&#xA;&lt;p&gt;GitHub ofrece un plan gratuito que incluye 500 MB de espacio de almacenamiento, así como repositorios y colaboradores ilimitados.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalacion Git</title>
+      <link>http://localhost:1313/blog/post/instalacion-git/</link>
+      <pubDate>Sat, 11 Nov 2023 04:27:07 -0500</pubDate>
+      <guid>http://localhost:1313/blog/post/instalacion-git/</guid>
+      <description>&lt;br&gt;&#xA;&lt;p align=&#34;center&#34;&gt;&#xA;&lt;img src=&#34;../../img/Git-Logo.png&#34; width=&#34;500&#34; height=&#34;200&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://git-scm.co&#34;&gt;Git&lt;/a&gt; es un sistema de control de versiones distribuido y diseñado para manejar todo tipo de proyectos, desde pequeños hasta muy grandes con gran velocidad y eficiencia.&#xA;Y por si fuera poco es libre y de código abierto.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;A continuación veremos como instalar Git:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;instalando-git&#34;&gt;Instalando Git&lt;/h1&gt;&#xA;&lt;br&gt;&#xA; A continuación quiero guiarles paso a paso como instalarlo. Puedes obtenerlo de varias maneras; las dos principales son instalarlo desde &lt;strong&gt;código fuente&lt;/strong&gt;, o instalar un &lt;strong&gt;paquete&lt;/strong&gt; existente para tu plataforma.&lt;br&gt;&lt;br&gt;&#xA;&lt;h3 id=&#34;instalando-desde-código-fuente&#34;&gt;Instalando desde código fuente&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;Para instalar Git, necesitas tener las siguientes librerías de las que Git depende: curl, zlib, openssl, expat y libiconv. Por ejemplo, si estás en un sistema que tiene yum (como &lt;strong&gt;Fedora&lt;/strong&gt; ) o apt-get (como un sistema basado en &lt;strong&gt;Debian&lt;/strong&gt;), puedes usar estos comandos para instalar todas las dependencias:&lt;br&gt;&#xA;&lt;div class=&#34;b&#34;&gt;&#xA;&lt;pre&gt;&#xA;$ yum install curl-devel expat-devel gettext-devel \&#xA;  openssl-devel zlib-devel &#xA;&lt;/pre&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext &lt;span style=&#34;color:#ae81ff&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;  libz-dev libssl-dev&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br&gt;&#xA;&lt;h3 id=&#34;instalando-en-linux&#34;&gt;Instalando en Linux&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Si quieres instalar Git en Linux a través de un instalador binario, en general puedes hacerlo a través del gestor de paquetes que trae tu distribución.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

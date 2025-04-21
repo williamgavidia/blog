@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programacion on Sasuke</title>
+    <link>http://localhost:1313/blog/categories/programacion/</link>
+    <description>Recent content in Programacion on Sasuke</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 26 Nov 2023 18:00:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/programacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalacion Sublime Text 3</title>
+      <link>http://localhost:1313/blog/post/intalacion-sublime-text/</link>
+      <pubDate>Sun, 26 Nov 2023 18:00:52 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post/intalacion-sublime-text/</guid>
+      <description>&lt;img src=&#34;../../img/sublimetext.png&#34; class=&#34;center&#34; /&gt;&#xA;&lt;br&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A continuación vamos a ver las tres sencillas líneas para tener instalado en nuestro sistema  &lt;a href=&#34;https://www.debian.org/&#34;&gt;Debian&lt;/a&gt; , &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt;, &lt;a href=&#34;https://www.linuxmint.com/&#34;&gt;Linux Mint&lt;/a&gt; y sus derivadas uno de los mejores editores de texto que he podido probar, simple y potente &lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime Text 3&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;../../img/sublime.png&#34; class=&#34;center&#34; /&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Para instalar el editor, solo hay que agregar un repositorio donde se encuentra el instalador, con la siguiente línea.&lt;/p&gt;&#xA;&lt;div class=&#34;b&#34;&gt;&#xA;&lt;pre&gt;&#xA;$ sudo add-apt-repository ppa:webupd8team/sublime-text-3&#xA;&lt;/pre&gt;&#xA;&lt;p&gt;Luego hacemos una actualización de todas las cabeceras de los repositorios que tenemos (algo muy rápido).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

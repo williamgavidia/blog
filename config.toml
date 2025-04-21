@@ -1,0 +1,64 @@
+baseURL = "https://williamgavidia.github.io/blog/"
+languageCode = "es-es"
+title = "Sasuke"
+theme = "hugo-sustain"
+
+[params]
+  author = "Wuilliam Gavidia"
+  description = "Un Espacio abierto e interactivo, dedicado a la tecnologia"
+
+[Params.author]
+  name = "Wuilliam Gavidia Zerpa"
+  avatar = "img/profile.jpg"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "williamgavidia"
+  Email         = "zerpaw@gmail.com"
+  Twitter       = "Wzerpa_g"
+  Telegram      = "@Sirseveruswilliam"
+
+[menu]
+## Main Menu
+[[menu.main]]
+        identifier = "Contacto"
+        name = "Contacto"
+        title = "Contacto"
+        url = "/contacto/"
+        weight= 200
+
+    [[menu.main]]
+        identifier = "post"
+        name = "Post"
+        title = "Post"
+        url = "/post/"
+        weight= 300
+
+[services]
+  [services.googleAnalytics]
+    #ID = 'G-7392E94N79'
+
+  [services.disqus]
+    shortname = 'williangavidia'
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+   [markup.goldmark]
+      [markup.goldmark.renderer]
+         unsafe = true

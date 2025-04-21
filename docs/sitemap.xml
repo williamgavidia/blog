@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/que-es-github/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/que-es-go/</loc>
+    <lastmod>2024-01-07T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/intalacion-sublime-text/</loc>
+    <lastmod>2023-11-26T18:00:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/instalacion-git/</loc>
+    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/contacto/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/que-es-hugo/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/porque-sasuke/</loc>
+    <lastmod>2023-11-01T04:27:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/bienvenido/</loc>
+    <lastmod>2023-10-29T03:33:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/control-de-versiones/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/debian/</loc>
+    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/desarrollador-web/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/categories/development/</loc>
+    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/git/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/categories/git/</loc>
+    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/go/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/google/</loc>
+    <lastmod>2024-01-07T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/hugo/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/lenguaje-de-programacion/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/linux/</loc>
+    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/post/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/categories/programacion/</loc>
+    <lastmod>2023-11-26T18:00:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/sitios-estaticos/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://williamgavidia.github.io/blog/tags/</loc>
+    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

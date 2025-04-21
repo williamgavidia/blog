@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aplicaciones on Sasuke</title>
+    <link>http://localhost:1313/blog/tags/aplicaciones/</link>
+    <description>Recent content in Aplicaciones on Sasuke</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/aplicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python: ¿Qué es y para qué sirve?</title>
+      <link>http://localhost:1313/blog/post/que-es-python/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post/que-es-python/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/python-logo.png&#34; width=&#34;500&#34; height=&#34;200&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt; es un lenguaje de programación de alto nivel, adaptable y con una sintaxis nítida y comprensible. Esto lo hace una magnífica elección tanto para novatos como para programadores con experiencia.&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;qué-lo-hace-tan-popular&#34;&gt;¿Qué lo hace tan popular?&lt;/h3&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Facilidad de aprendizaje:&lt;/strong&gt; Su sintaxis simple se asemeja al lenguaje natural, facilitando la comprensión y el desarrollo de código.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Versatilidad:&lt;/strong&gt; Python se utiliza en una amplia gama de aplicaciones.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gran comunidad y soporte:&lt;/strong&gt; Cuenta con una comunidad activa que ofrece abundante documentación, bibliotecas y frameworks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;para-qué-sirve-python&#34;&gt;¿Para qué sirve Python?&lt;/h3&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;Su uso es diverso, incluyendo:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

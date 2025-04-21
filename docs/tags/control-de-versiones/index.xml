@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control De Versiones on Sasuke</title>
+    <link>https://williamgavidia.github.io/blog/tags/control-de-versiones/</link>
+    <description>Recent content in Control De Versiones on Sasuke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 06 Feb 2024 04:27:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://williamgavidia.github.io/blog/tags/control-de-versiones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Que es GITHUB</title>
+      <link>https://williamgavidia.github.io/blog/post/que-es-github/</link>
+      <pubDate>Tue, 06 Feb 2024 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/que-es-github/</guid>
+      <description>Github es un servicio de alojamiento de repositorio de Git de código abierto y basado en la nube con una interfaz gráfica basada en la web.
+Como desarrollador web, esta puede ser una excelente plataforma para desarrollar una marca personal y ampliar tus redes. Además, GitHub ofrece herramientas de gestión de proyectos adaptables que ayudan a las organizaciones adaptarse a cualquier flujo de trabajo, proyecto o equipo.</description>
+    </item>
+    
+    <item>
+      <title>Instalacion Git</title>
+      <link>https://williamgavidia.github.io/blog/post/instalacion-git/</link>
+      <pubDate>Sat, 11 Nov 2023 04:27:07 -0500</pubDate>
+      
+      <guid>https://williamgavidia.github.io/blog/post/instalacion-git/</guid>
+      <description>Git es un sistema de control de versiones distribuido y diseñado para manejar todo tipo de proyectos, desde pequeños hasta muy grandes con gran velocidad y eficiencia. Y por si fuera poco es libre y de código abierto.
+A continuación veremos como instalar Git:
+Instalando Git 
+A continuación quiero guiarles paso a paso como instalarlo. Puedes obtenerlo de varias maneras; las dos principales son instalarlo desde código fuente, o instalar un paquete existente para tu plataforma.</description>
+    </item>
+    
+  </channel>
+</rss>

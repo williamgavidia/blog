@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="es-es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Wuilliam Gavidia">
+    <link rel="shortcut icon" type="image/x-icon" href="https://williamgavidia.github.io/blog/img/sasuke.ico">
+    <title>Instalacion Git | Sasuke</title>
+    <meta name="description" content="spf13-vim is a cross platform distribution of vim plugins and resources for Vim.">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    
+    <link rel="preload stylesheet" href="/blog/css/main.min.css" as="style">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old">
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-7392E94N79', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7392E94N79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7392E94N79');
+</script>
+  </head>
+  <body>
+    <div id="content">
+  
+  <div class="container mb-3">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="https://williamgavidia.github.io/blog/">
+        <i class="fa fa-home"></i>
+      </a>
+    
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar">
+        <i class="fa fa-bars"></i>
+      </button>
+
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          
+            
+              <li class="nav-item">
+                <li><a class="nav-link" href="/blog/contacto/">CONTACTO</a></li>
+              </li>
+            
+              <li class="nav-item">
+                <li><a class="nav-link" href="/blog/post/">POST</a></li>
+              </li>
+            
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="container">
+    <h3 class="mt-3"><b><a href="https://williamgavidia.github.io/blog/post/instalacion-git/">Instalacion Git</a></b></h3>
+    <div class="blog-title my-4">
+      <h6>
+        November 11, 2023
+        &nbsp;&nbsp;
+        
+          <span class="badge bg-success">linux</span>
+        
+          <span class="badge bg-success">debian</span>
+        
+          <span class="badge bg-success">control de versiones</span>
+        
+          <span class="badge bg-success">git</span>
+        
+      </h6>
+    </div>
+    <div class="panel">
+      <div class="panel-body">
+        <div class="blogpost">
+          
+
+<p><br>
+<p align="center">
+<img src="../../img/Git-Logo.png" width="500" height="200"/>
+</p></p>
+
+<p><br>
+<br>
+<a href="https://git-scm.co">Git</a>  es un sistema de control de versiones distribuido y diseñado para manejar todo tipo de proyectos, desde pequeños hasta muy grandes con gran velocidad y eficiencia.
+Y por si fuera poco es libre y de código abierto.<br><br></p>
+
+<p>A continuación veremos como instalar Git:<br><br></p>
+
+<h1 id="instalando-git">Instalando Git</h1>
+
+<p><br>
+ A continuación quiero guiarles paso a paso como instalarlo. Puedes obtenerlo de varias maneras; las dos principales son instalarlo desde <strong>código fuente</strong>, o instalar un <strong>paquete</strong> existente para tu plataforma.<br><br></p>
+
+<h3 id="instalando-desde-código-fuente">Instalando desde código fuente</h3>
+
+<p><br>
+Para instalar Git, necesitas tener las siguientes librerías de las que Git depende: curl, zlib, openssl, expat y libiconv. Por ejemplo, si estás en un sistema que tiene yum (como <strong>Fedora</strong> ) o apt-get (como un sistema basado en <strong>Debian</strong>), puedes usar estos comandos para instalar todas las dependencias:<br></p>
+
+<p><div class="b"></p>
+
+<pre>
+$ yum install curl-devel expat-devel gettext-devel \
+  openssl-devel zlib-devel 
+</pre>
+
+<pre><code class="language-bash">$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
+  libz-dev libssl-dev
+</code></pre>
+
+<p><br></p>
+
+<h3 id="instalando-en-linux">Instalando en Linux</h3>
+
+<p><br></p>
+
+<p>Si quieres instalar Git en Linux a través de un instalador binario, en general puedes hacerlo a través del gestor de paquetes que trae tu distribución.<br><br></p>
+
+<h4 id="fedora">Fedora</h4>
+
+<pre><code class="language-shell-session">$ yum install git (Hasta Fedora 21)
+</code></pre>
+
+<p>o</p>
+
+<pre><code class="language-shell-session">$ dnf install git (Fedora 22 y posteriores)
+</code></pre>
+
+<p><br></p>
+
+<h4 id="debian-ubuntu">Debian/Ubuntu</h4>
+
+<pre><code class="language-shell-session">$ apt-get install git
+</code></pre>
+
+<p><br></p>
+
+<h4 id="gentoo">Gentoo</h4>
+
+<pre><code class="language-bash">$ emerge --ask --verbose dev-vcs/git
+</code></pre>
+
+<p><br></p>
+
+<h4 id="arch-linux">Arch Linux</h4>
+
+<pre><code class="language-shell-session">$ pacman -S git
+</code></pre>
+
+<p><br></p>
+
+<h4 id="opensuse">openSUSE</h4>
+
+<pre><code class="language-shell-session">$ zypper install git
+</code></pre>
+
+<p><br></p>
+
+<h4 id="freebsd">FreeBSD</h4>
+
+<pre><code class="language-shell-session">$ cd /usr/ports/devel/git
+</code></pre>
+
+<pre><code class="language-shell-session">$ make install
+</code></pre>
+
+<p><br></p>
+
+<h4 id="solaris-11-express">Solaris 11 Express</h4>
+
+<pre><code class="language-shell-session">$ pkg install developer/versioning/git
+</code></pre>
+
+<p><br></p>
+
+<h4 id="openbsd">OpenBSD</h4>
+
+<pre><code class="language-shell-session">$ pkg_add git
+</code></pre>
+
+<p></div>
+<br></p>
+
+          
+          
+        </div>
+      </div>
+      <div class="disqus">
+        <div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-williamgavidia-github-io-blog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </div>
+    </div>
+  </div>
+
+    </div>
+    
+    <footer class="footer">
+  <div class="container">
+    <div align="center">
+    <div class="text-muted">&copy; <time datetime="2024-02-13 06:48:25.564262039 -0500 -05 m=&#43;2.937632227">2024</time> Wuilliam Gavidia Zerpa ♥
+  </div>  
+</div> 
+  </div>
+</footer>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
+
+    <script id="dsq-count-scr" src="//https-williamgavidia-github-io-blog.disqus.com/count.js" async></script>
+  </body>
+</html>
