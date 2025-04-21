@@ -44,9 +44,7 @@ Y ya está, aquí una captura de mi instalación, todo ha ido muy bien y ha sido
 <br>
 
 <br>
-
 <img src="../../img/sublime-text-linux-mint-ubuntu-debian.png" class="center" />
-
 <br>
 <br>
 
