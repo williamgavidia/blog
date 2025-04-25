@@ -3,7 +3,7 @@ layout: post
 title: "Instalacion Sublime Text 3"
 comments: true
 date: 2023-11-26 18:00:52
-categories: programacion
+categories: ["programacion"]
 ---
 
 <img src="../../img/sublimetext.png" class="center" />
