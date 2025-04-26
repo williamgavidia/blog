@@ -3,7 +3,7 @@ title: "Python: ¿Qué es y para qué sirve?"
 comments: true
 date: 15 apr 2025
 tags:
-  ["Lebguaje de programacion", "Aplicaciones", "Desarrollador web", "Software"]
+  ["Lenguaje de programacion", "Aplicaciones", "Desarrollador web", "Software"]
 draft: false
 ---
 

@@ -7,7 +7,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../static/img/termux.png" width="500" height="200"/>
+<img src="../../img/termux.png" width="500" height="200"/>
 </p>
 
 <br>
