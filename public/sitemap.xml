@@ -26,13 +26,16 @@
     <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/go/</loc>
+    <loc>http://localhost:1313/blog/tags/emulador/</loc>
+    <lastmod>2025-01-28T04:27:07-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/linux/</loc>
     <lastmod>2025-01-28T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/que-es-termux/</loc>
     <lastmod>2025-01-28T04:27:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/sitios-estaticos/</loc>
+    <loc>http://localhost:1313/blog/tags/terminal/</loc>
     <lastmod>2025-01-28T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/termux/</loc>
@@ -77,16 +80,19 @@
     <loc>http://localhost:1313/blog/post/instalacion-git/</loc>
     <lastmod>2023-11-11T04:27:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/linux/</loc>
-    <lastmod>2023-11-11T04:27:07-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/contacto/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/go/</loc>
     <lastmod>2023-11-03T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/hugo/</loc>
     <lastmod>2023-11-03T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/que-es-hugo/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/sitios-estaticos/</loc>
     <lastmod>2023-11-03T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/porque-sasuke/</loc>

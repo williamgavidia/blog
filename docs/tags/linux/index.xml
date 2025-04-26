@@ -6,8 +6,15 @@
     <description>Recent content in Linux on Sasuke</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 11 Nov 2023 04:27:07 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 04:27:07 -0500</lastBuildDate>
     <atom:link href="https://williamgavidia.github.io/blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Que es Termux</title>
+      <link>https://williamgavidia.github.io/blog/post/que-es-termux/</link>
+      <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
+      <guid>https://williamgavidia.github.io/blog/post/que-es-termux/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xA;&lt;img src=&#34;../../static/img/Termux.jpg&#34; width=&#34;500&#34; height=&#34;200&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;h2 id=&#34;termux-en-android-desata-el-poder-de-la-línea-de-comandos&#34;&gt;Termux en Android: Desata el Poder de la Línea de Comandos&lt;/h2&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;Termux&lt;/strong&gt; es un emulador de terminal Linux para Android que te permite ejecutar herramientas y utilidades de línea de comandos directamente en tu dispositivo, &lt;strong&gt;sin necesidad de rootearlo&lt;/strong&gt;. Imagínalo como una pequeña ventana a un sistema operativo Linux, pero dentro de tu smartphone.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Por qué es útil?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Termux abre un abanico de posibilidades:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Desarrollo:&lt;/strong&gt; Edita código con &lt;a href=&#34;https://www.vim.org/&#34;&gt;Vim&lt;/a&gt; o &lt;a href=&#34;https://www.nano-editor.org/&#34;&gt;Nano&lt;/a&gt;, compila y ejecuta programas en &lt;a href=&#34;https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)&#34;&gt;C&lt;/a&gt;, &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;https://www.ruby-lang.org/es/&#34;&gt;Ruby&lt;/a&gt; y más.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Administración de Sistemas:&lt;/strong&gt; Ejecuta comandos de red como &lt;code&gt;ping&lt;/code&gt;, &lt;code&gt;traceroute&lt;/code&gt;, &lt;code&gt;ssh&lt;/code&gt; para diagnosticar problemas o acceder a servidores remotos.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automatización:&lt;/strong&gt; Crea scripts para automatizar tareas repetitivas.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seguridad:&lt;/strong&gt; Utiliza herramientas de seguridad para pruebas de penetración (siempre éticamente y con permiso).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿Cómo sacarle el máximo provecho?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Instalacion Git</title>
       <link>https://williamgavidia.github.io/blog/post/instalacion-git/</link>

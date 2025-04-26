@@ -37,17 +37,24 @@
       <description></description>
     </item>
     <item>
-      <title>Go</title>
-      <link>http://localhost:1313/blog/tags/go/</link>
+      <title>Emulador</title>
+      <link>http://localhost:1313/blog/tags/emulador/</link>
       <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/go/</guid>
+      <guid>http://localhost:1313/blog/tags/emulador/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sitios Estaticos</title>
-      <link>http://localhost:1313/blog/tags/sitios-estaticos/</link>
+      <title>Linux</title>
+      <link>http://localhost:1313/blog/tags/linux/</link>
       <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/sitios-estaticos/</guid>
+      <guid>http://localhost:1313/blog/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost:1313/blog/tags/terminal/</link>
+      <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/terminal/</guid>
       <description></description>
     </item>
     <item>
@@ -93,10 +100,10 @@
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/blog/tags/linux/</link>
-      <pubDate>Sat, 11 Nov 2023 04:27:07 -0500</pubDate>
-      <guid>http://localhost:1313/blog/tags/linux/</guid>
+      <title>Go</title>
+      <link>http://localhost:1313/blog/tags/go/</link>
+      <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/go/</guid>
       <description></description>
     </item>
     <item>
@@ -104,6 +111,13 @@
       <link>http://localhost:1313/blog/tags/hugo/</link>
       <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
       <guid>http://localhost:1313/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sitios Estaticos</title>
+      <link>http://localhost:1313/blog/tags/sitios-estaticos/</link>
+      <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
+      <guid>http://localhost:1313/blog/tags/sitios-estaticos/</guid>
       <description></description>
     </item>
     <item>
