@@ -8,7 +8,7 @@
     <loc>http://localhost:1313/blog/tags/desarrollador-web/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/lebguaje-de-programacion/</loc>
+    <loc>http://localhost:1313/blog/tags/lenguaje-de-programacion/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/</loc>
@@ -45,9 +45,6 @@
     <lastmod>2024-02-06T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/git/</loc>
-    <lastmod>2024-02-06T04:27:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/lenguaje-de-programacion/</loc>
     <lastmod>2024-02-06T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/que-es-github/</loc>
