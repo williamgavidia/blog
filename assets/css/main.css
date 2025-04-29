@@ -8,17 +8,18 @@
 
   #content {
   min-height: 100%;
-  height: auto;
+  height: 100%;
   /* Negative indent footer by its height */
-  margin: 0 auto -69px;
+  margin: 0 0 122px;
   /* Pad bottom by footer height */
-  padding: 0 0 69px;
+  padding: 0 0 116px;
 }
 
 .box 
 {
 position: relative;
 place-items: center;
+top: 90px;
 width: 250px;
 height: 250px;
 border-radius: 50%;
@@ -103,7 +104,6 @@ z-index: 3;
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-
 }
 
 .cont h2 span
@@ -169,7 +169,7 @@ z-index: 3;
   .social-links {
     display: flex;
     position:absolute;
-    top: 90%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%,-50%);
     animation: fade 1s ease 1s bo
@@ -177,9 +177,9 @@ z-index: 3;
   
   .social-links li {
     display: flex;
-    margin: 0 30px;
+    margin: 0 10px;
     list-style: none;
-    padding: 30px;
+    padding: 10px;
     padding-top: 0;
     text-align: center;
   }
@@ -255,8 +255,8 @@ z-index: 3;
 #label_toggle{
   position: absolute;
   top: 10px;
-  right: -50px;
-  font-size: 1.5em;
+  right: 10px;
+  font-size: 1em;
   color: #0fadc9;
   cursor: pointer;
 }

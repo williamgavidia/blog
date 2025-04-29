@@ -15,7 +15,7 @@ theme = "hugo-sustain"
   custom_css = []
   custom_js  = []
 
-[params.social]
+[Params.social]
   Github        = "williamgavidia"
   Email         = "zerpaw@gmail.com"
   Twitter       = "Wzerpa_g"
