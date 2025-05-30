@@ -6,8 +6,15 @@
     <description>Recent content on Sasuke</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción a PHP: El lenguaje que dio vida a la web dinámica</title>
+      <link>http://localhost:1313/blog/post/que-es-php/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post/que-es-php/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/PHP-logo.png&#34; width=&#34;500&#34; height=&#34;400&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt; (&lt;em&gt;Hypertext Preprocessor&lt;/em&gt;) es uno de los lenguajes de programación más influyentes en la historia del desarrollo web. Desde sus inicios en 1994, ha evolucionado constantemente hasta convertirse en una herramienta poderosa, eficiente y aún vigente en el desarrollo de aplicaciones web modernas.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;qué-es-php&#34;&gt;¿Qué es PHP?&lt;/h3&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.php.net/&#34;&gt;PHP&lt;/a&gt; es un lenguaje de programación de código abierto, orientado principalmente al desarrollo del lado del servidor. Esto significa que se ejecuta en el servidor web, generando contenido dinámico que luego es enviado al navegador del usuario.&lt;br&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Python: ¿Qué es y para qué sirve?</title>
       <link>http://localhost:1313/blog/post/que-es-python/</link>
