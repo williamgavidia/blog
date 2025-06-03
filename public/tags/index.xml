@@ -6,33 +6,40 @@
     <description>Recent content in Tags on Sasuke</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aplicaciones</title>
       <link>http://localhost:1313/blog/tags/aplicaciones/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/aplicaciones/</guid>
       <description></description>
     </item>
     <item>
       <title>Desarrollador Web</title>
       <link>http://localhost:1313/blog/tags/desarrollador-web/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/desarrollador-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frameworks</title>
+      <link>http://localhost:1313/blog/tags/frameworks/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tags/frameworks/</guid>
       <description></description>
     </item>
     <item>
       <title>Lenguaje De Programacion</title>
       <link>http://localhost:1313/blog/tags/lenguaje-de-programacion/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/lenguaje-de-programacion/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
       <link>http://localhost:1313/blog/tags/software/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/software/</guid>
       <description></description>
     </item>

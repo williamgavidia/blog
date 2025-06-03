@@ -3,27 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/tags/aplicaciones/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/desarrollador-web/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/frameworks/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post/que-es-php/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/lenguaje-de-programacion/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/post/que-es-python/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/software/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post/que-es-python/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/emulador/</loc>
