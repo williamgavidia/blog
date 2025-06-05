@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Sasuke</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://williamgavidia.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo instalar un entorno PHP en tu computadora</title>
+      <link>https://williamgavidia.github.io/blog/post/instalar-php/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://williamgavidia.github.io/blog/post/instalar-php/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/PHP-logo.png&#34; width=&#34;500&#34; height=&#34;400&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.php.net/&#34;&gt;PHP&lt;/a&gt; sigue siendo uno de los lenguajes de programación más utilizados para el desarrollo web. Si estás empezando o necesitas un entorno local para trabajar en tus proyectos, en esta guía te enseñaré cómo instalar todo lo necesario para ejecutar PHP en tu computadora, paso a paso.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;qué-necesitas-para-trabajar-con-php&#34;&gt;¿Qué necesitas para trabajar con PHP?&lt;/h4&gt;&#xA;&lt;br&gt;&#xD;&#xA;Un entorno PHP básico incluye:&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PHP&lt;/strong&gt; (el lenguaje en sí)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Servidor web&lt;/strong&gt; (como Apache o Nginx)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Base de datos&lt;/strong&gt; (como MySQL o MariaDB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Editor de código&lt;/strong&gt; (como VS Code, Sublime Text o PHPStorm)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Para facilitar la instalación de todo esto, puedes optar por un paquete &amp;ldquo;todo en uno&amp;rdquo; o instalar los componentes por separado.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introducción a PHP: El lenguaje que dio vida a la web dinámica</title>
       <link>https://williamgavidia.github.io/blog/post/que-es-php/</link>

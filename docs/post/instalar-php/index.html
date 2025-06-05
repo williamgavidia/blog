@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es-es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="map[avatar:img/profile.jpg custom_css:[] custom_js:[] name:Wuilliam Gavidia Zerpa]">
+    <link rel="shortcut icon" type="image/x-icon" href="https://williamgavidia.github.io/blog/img/sasuke.ico">
+    <title>Cómo instalar un entorno PHP en tu computadora | Sasuke</title>
+    <meta name="description" content="
+
+
+
+PHP sigue siendo uno de los lenguajes de programación más utilizados para el desarrollo web. Si estás empezando o necesitas un entorno local para trabajar en tus proyectos, en esta guía te enseñaré cómo instalar todo lo necesario para ejecutar PHP en tu computadora, paso a paso.
+
+
+¿Qué necesitas para trabajar con PHP?
+
+Un entorno PHP básico incluye:
+
+
+PHP (el lenguaje en sí)
+Servidor web (como Apache o Nginx)
+Base de datos (como MySQL o MariaDB)
+Editor de código (como VS Code, Sublime Text o PHPStorm)
+
+Para facilitar la instalación de todo esto, puedes optar por un paquete &ldquo;todo en uno&rdquo; o instalar los componentes por separado.">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    
+    <link rel="preload stylesheet" href="/blog/css/main.min.css" as="style">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old">
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7392E94N79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7392E94N79');
+</script>
+  </head>
+  <body>
+    <div id="content">
+  
+  <div class="container mb-3">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="https://williamgavidia.github.io/blog/">
+        <i class="fa fa-home"></i>
+      </a>
+    
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar">
+        <i class="fa fa-bars"></i>
+      </button>
+
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          
+            
+              <li class="nav-item">
+                <li><a class="nav-link" href="/blog/contacto/">CONTACTO</a></li>
+              </li>
+            
+              <li class="nav-item">
+                <li><a class="nav-link" href="/blog/post/">POST</a></li>
+              </li>
+            
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="container">
+    <h3 class="mt-3"><b><a href="https://williamgavidia.github.io/blog/post/instalar-php/">Cómo instalar un entorno PHP en tu computadora</a></b></h3>
+    <div class="blog-title my-4">
+      <h6>
+        June 5, 2025
+        &nbsp;&nbsp;
+        
+          <span class="badge bg-success">Lenguaje de programacion</span>
+        
+          <span class="badge bg-success">Aplicaciones</span>
+        
+          <span class="badge bg-success">Desarrollador web</span>
+        
+          <span class="badge bg-success">Software</span>
+        
+          <span class="badge bg-success">Frameworks</span>
+        
+      </h6>
+    </div>
+    <div class="panel">
+      <div class="panel-body">
+        <div class="blogpost">
+          <p align="center">
+<img src="../../img/PHP-logo.png" width="500" height="400"/>
+</p>
+<br>
+<p><a href="https://www.php.net/">PHP</a> sigue siendo uno de los lenguajes de programación más utilizados para el desarrollo web. Si estás empezando o necesitas un entorno local para trabajar en tus proyectos, en esta guía te enseñaré cómo instalar todo lo necesario para ejecutar PHP en tu computadora, paso a paso.
+<br>
+<br></p>
+<h4 id="qué-necesitas-para-trabajar-con-php">¿Qué necesitas para trabajar con PHP?</h4>
+<br>
+Un entorno PHP básico incluye:
+<br><br>
+<ul>
+<li><strong>PHP</strong> (el lenguaje en sí)</li>
+<li><strong>Servidor web</strong> (como Apache o Nginx)</li>
+<li><strong>Base de datos</strong> (como MySQL o MariaDB)</li>
+<li><strong>Editor de código</strong> (como VS Code, Sublime Text o PHPStorm)</li>
+</ul>
+<p>Para facilitar la instalación de todo esto, puedes optar por un paquete &ldquo;todo en uno&rdquo; o instalar los componentes por separado.</p>
+<br>
+<h3 id="opción-recomendada-usar-un-paquete-como-xampp-mamp-o-laragon">Opción recomendada: usar un paquete como XAMPP, MAMP o Laragon</h3>
+<br>
+<h4 id="xampp-windows-macos-linux">XAMPP (Windows, macOS, Linux)</h4>
+<br>
+<p><a href="https://www.apachefriends.org/es/index.html">XAMPP</a> es uno de los entornos más populares para PHP. Incluye <strong>Apache, MySQL, PHP y phpMyAdmin</strong> en un solo instalador.</p>
+<br>
+<h4 id="cómo-instalar-xampp">Cómo instalar XAMPP:</h4>
+<br>
+<ol>
+<li>Ve a <a href="https://www.apachefriends.org">https://www.apachefriends.org</a></li>
+<li>Descarga la versión para tu sistema operativo.</li>
+<li>Ejecuta el instalador y sigue los pasos.</li>
+<li>Abre el <strong>Panel de Control de XAMPP</strong> y activa <a href="https://httpd.apache.org/">Apache</a> y <a href="https://www.mysql.com/">MySQL</a>.</li>
+</ol>
+<p>Tu entorno PHP estará listo y podrás acceder a tus proyectos desde:
+<br></p>
+<p><a href="http://localhost">http://localhost</a></p>
+<blockquote>
+<p>Tus archivos deben ir en la carpeta <code>htdocs</code> dentro del directorio donde se instaló XAMPP.</p></blockquote>
+<br>
+<h3 id="opción-alternativa-instalar-php-manualmente-más-flexible">Opción alternativa: instalar PHP manualmente (más flexible)</h3>
+<br>
+<h4 id="1-instalar-php">1. Instalar PHP</h4>
+<br>
+<p><strong>Windows:</strong></p>
+<ul>
+<li>Descarga PHP desde: <a href="https://windows.php.net/download/">https://windows.php.net/download/</a></li>
+<li>Descomprime el archivo y agrega la carpeta a la variable de entorno <code>PATH</code>.</li>
+</ul>
+<p><strong>macOS/Linux:</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> <span style="color:#75715e"># macOS</span>
+</span></span><span style="display:flex;"><span> brew install php
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span> <span style="color:#75715e"># Ubuntu/Debian</span>
+</span></span><span style="display:flex;"><span> sudo apt install php
+</span></span></code></pre></div><p>Verifica la instalación con:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> php -v
+</span></span></code></pre></div><br>
+<h4 id="2-instalar-servidor-web-apache-o-nginx">2. Instalar servidor web (Apache o Nginx)</h4>
+<br>
+<p>En Ubuntu:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> sudo apt install apache2
+</span></span></code></pre></div><p>En macOS, puedes usar Homebrew o MAMP.</p>
+<br>
+<h4 id="3-instalar-base-de-datos">3. Instalar base de datos</h4>
+<br>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> sudo apt install mysql-server
+</span></span></code></pre></div><p>O puedes usar <a href="https://mariadb.org/">MariaDB</a> como alternativa.</p>
+<br>
+<h4 id="estructura-de-archivos-para-un-proyecto-php">Estructura de archivos para un proyecto PHP</h4>
+<br>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> mi-proyecto/
+</span></span><span style="display:flex;"><span> ├── index.php
+</span></span><span style="display:flex;"><span> ├── style.css
+</span></span><span style="display:flex;"><span> └── js/
+</span></span><span style="display:flex;"><span>     └── script.js
+</span></span></code></pre></div><p>Puedes crear tu primer archivo <code>index.php</code> con el siguiente contenido de prueba:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> &lt;?php
+</span></span><span style="display:flex;"><span> echo <span style="color:#e6db74">&#34;¡Hola, mundo desde PHP!&#34;</span>;
+</span></span><span style="display:flex;"><span> ?&gt;
+</span></span></code></pre></div><br>
+<h4 id="probar-tu-instalación">Probar tu instalación</h4>
+<br>
+Abre tu navegador y escribe:
+<br>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> http://localhost
+</span></span></code></pre></div><p>Si ves tu mensaje <strong>&quot;¡Hola, mundo desde PHP!&quot;</strong>, ¡felicidades! Tu entorno PHP está funcionando correctamente.</p>
+<br>
+<h4 id="herramientas-adicionales-recomendadas">Herramientas adicionales recomendadas</h4>
+<br>
+<ul>
+<li><a href="https://www.phpmyadmin.net/">phpMyAdmin</a>: para gestionar bases de datos MySQL/MariaDB desde el navegador.</li>
+<li><a href="https://getcomposer.org/">Composer</a>: gestor de dependencias para proyectos PHP.</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> curl -sS https://getcomposer.org/installer | php
+</span></span></code></pre></div><ul>
+<li><a href="https://code.visualstudio.com/">VS Code</a> <strong>con extensión PHP Intelephense:</strong> para una mejor experiencia de desarrollo.</li>
+</ul>
+<br>
+<h4 id="conclusión">Conclusión</h4>
+<br>
+Instalar un entorno PHP en tu computadora es el primer paso para desarrollar aplicaciones web dinámicas de forma local. Ya sea que elijas una solución todo en uno como XAMPP o prefieras instalar los componentes por separado, tener este entorno te permitirá trabajar cómodamente y probar tus proyectos antes de publicarlos en línea.
+
+          
+          
+            <div class="related-posts mt-4 py-3">
+              <h5>Related Posts</h5>
+              
+                <div class="row">
+                  <div class="col-4">
+                    <h6 style="text-align: right">
+                      May 29, 2025
+                    </h6>
+                  </div>
+                  <div class="col-8">
+                    <h6 style="text-align: left">
+                      <b><a href="/blog/post/que-es-php/">Introducción a PHP: El lenguaje que dio vida a la web dinámica</a></b>
+                    </h6>
+                  </div>
+                </div>
+              
+                <div class="row">
+                  <div class="col-4">
+                    <h6 style="text-align: right">
+                      April 15, 2025
+                    </h6>
+                  </div>
+                  <div class="col-8">
+                    <h6 style="text-align: left">
+                      <b><a href="/blog/post/que-es-python/">Python: ¿Qué es y para qué sirve?</a></b>
+                    </h6>
+                  </div>
+                </div>
+              
+            </div>
+          
+        </div>
+      </div>
+      <div class="disqus">
+        <div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-williamgavidia-github-io-blog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </div>
+    </div>
+  </div>
+
+    </div>
+    
+    <footer class="footer">
+  <div class="container">
+    <div align="center">
+    <div class="text-muted">&copy; <time datetime="2025-06-04 23:02:18.392883 -0500 -05 m=&#43;0.117806501">2025</time> Wuilliam Gavidia Zerpa ♥
+  </div>  
+</div> 
+  </div>
+</footer>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
+
+    <script id="dsq-count-scr" src="//https-williamgavidia-github-io-blog.disqus.com/count.js" async></script>
+  </body>
+</html>

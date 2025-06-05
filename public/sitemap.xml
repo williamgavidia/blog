@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/blog/tags/frameworks/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/post/instalar-php/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/post/que-es-php/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -83,6 +86,9 @@
     <loc>http://localhost:1313/blog/post/instalacion-git/</loc>
     <lastmod>2023-11-11T04:27:07-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/post/que-es-hugo/</loc>
+    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/contacto/</loc>
     <lastmod>2023-11-03T04:27:07-05:00</lastmod>
   </url><url>
@@ -90,9 +96,6 @@
     <lastmod>2023-11-03T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/hugo/</loc>
-    <lastmod>2023-11-03T04:27:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/post/que-es-hugo/</loc>
     <lastmod>2023-11-03T04:27:07-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/sitios-estaticos/</loc>
