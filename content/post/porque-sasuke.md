@@ -10,9 +10,11 @@ Para comenzar, les contaré cómo surgió la idea del nombre del blog. Es públi
 
 El nombre japonés _"SASUKE"_ se compone de los caracteres kanji _"Sa"_ y _"suke"_. _"Sa"_ significa _"asistir"_ o _"ayudar"_, mientras que _"suke"_ significa _"ayuda"_ o _"asistencia"_. Por lo tanto, _SASUKE_ significa _"el que ayuda"_ o _"el que asiste"_.
 
+<div class="responsive">
 <p align="center">
-<img src="../../img/sasuke.jpg" width="700" height="350"/>
+<img src="../../img/sasuke.jpg" width="800" height="400"/>
 </p>
+</div>
 
 Este personaje tiene un significado profundo y simbolico en la historia de **Naruto** y me identifico con el.
 

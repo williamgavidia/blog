@@ -6,8 +6,15 @@
     <description>Recent content in Lenguaje De Programacion on Sasuke</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://williamgavidia.github.io/blog/tags/lenguaje-de-programacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción a Laravel: El framework PHP más popular</title>
+      <link>https://williamgavidia.github.io/blog/post/introduccion-laravel/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://williamgavidia.github.io/blog/post/introduccion-laravel/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/logo-laravel.png&#34; width=&#34;800&#34; height=&#34;300&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;En el mundo del desarrollo web, &lt;strong&gt;Laravel&lt;/strong&gt; se ha ganado un lugar privilegiado como el &lt;strong&gt;framework PHP más utilizado y valorado por la comunidad&lt;/strong&gt;. Su enfoque elegante, moderno y expresivo ha transformado la forma en que los desarrolladores construyen aplicaciones web con PHP.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;qué-es-laravel&#34;&gt;¿Qué es Laravel?&lt;/h4&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Laravel&lt;/strong&gt; es un framework de código abierto para PHP, creado por &lt;strong&gt;Taylor Otwell&lt;/strong&gt; en 2011. Está diseñado para hacer que el desarrollo web sea más fácil y limpio, proporcionando una sintaxis clara y herramientas modernas para construir aplicaciones robustas y escalables.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cómo instalar un entorno PHP en tu computadora</title>
       <link>https://williamgavidia.github.io/blog/post/instalar-php/</link>
