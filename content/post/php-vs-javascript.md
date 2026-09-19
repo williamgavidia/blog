@@ -5,6 +5,11 @@ tags: ["Lenguaje de programacion", "Desarrollador web", "PHP", "JavaScript"]
 description: "Comparamos PHP y JavaScript: para qué sirve cada uno, sus diferencias clave y cuándo conviene usar uno u otro en un proyecto web."
 ---
 
+<p align="center">
+<img src="../../img/php_versus_JavaScript.jpg" width="800" height="300"/>
+</p>
+
+
 Si estás empezando en el desarrollo web, es casi seguro que te has topado con esta pregunta: **¿PHP o JavaScript?** La realidad es que no son rivales — cada uno resuelve un problema distinto, y en la mayoría de los proyectos reales terminan trabajando juntos.
 
 #### ¿Qué es PHP?
