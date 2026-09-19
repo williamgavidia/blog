@@ -20,13 +20,13 @@
     <loc>http://localhost:1313/blog/post/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/tags/software/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post/instalar-php/</loc>
