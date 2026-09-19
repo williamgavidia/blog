@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debian on Sasuke</title>
+    <title>Debian on Wuilliam Gavidia | Blog de Desarrollo</title>
     <link>https://williamgavidia.github.io/blog/tags/debian/</link>
-    <description>Recent content in Debian on Sasuke</description>
+    <description>Recent content in Debian on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 11 Nov 2023 04:27:07 -0500</lastBuildDate>
