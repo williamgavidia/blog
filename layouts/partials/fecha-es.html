@@ -1,0 +1,8 @@
+{{/*
+  Partial: fecha-es.html
+  Uso: {{ partial "fecha-es.html" .Date }}
+  Recibe un valor de tipo fecha (time.Time) y devuelve el texto formateado en español,
+  con el estilo "18 de septiembre de 2026".
+*/}}
+{{ $meses := slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre" }}
+{{ printf "%d de %s de %d" .Day (index $meses (sub (int .Month) 1)) .Year }}
