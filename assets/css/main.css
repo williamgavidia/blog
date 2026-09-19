@@ -1,9 +1,15 @@
-  html, body {
+html, body {
     font-family: 'Montserrat';
     font-style: normal;
     /* The html and body elements cannot have any padding or margin. */
     border-top: 3px solid #0fadc9;
     transition: all 1.5s ease;
+  }
+
+  /* --- FIX: imágenes responsivas (nunca más anchas que su contenedor) --- */
+  img {
+    max-width: 100%;
+    height: auto;
   }
 
   #content {
@@ -22,6 +28,7 @@ place-items: center;
 top: 90px;
 width: 250px;
 height: 250px;
+max-width: 90vw;
 border-radius: 50%;
 overflow: hidden;
 }
@@ -266,9 +273,12 @@ z-index: 3;
   color: white;
   transition: all 1.5s ease;
 }
-  
 
-  
-  
-  
-  
+/* --- FIX: avatar más pequeño en pantallas muy angostas --- */
+@media (max-width: 480px) {
+  .box {
+    width: 200px;
+    height: 200px;
+    top: 40px;
+  }
+}
