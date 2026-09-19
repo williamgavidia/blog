@@ -6,7 +6,7 @@ description: "Comparamos PHP y JavaScript: para qué sirve cada uno, sus diferen
 ---
 
 <p align="center">
-<img src="../../img/php_versus_JavaScript.jpg" width="800" height="300"/>
+<img src="../../img/php_versus_JavaScript.jpeg" width="800" height="300"/>
 </p>
 
 
