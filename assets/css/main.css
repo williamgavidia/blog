@@ -6,7 +6,7 @@ html, body {
     transition: all 1.5s ease;
   }
 
-  /* --- FIX: imágenes responsivas (nunca más anchas que su contenedor) --- */
+  /* --- FIX 1: imágenes responsivas (nunca más anchas que su contenedor) --- */
   img {
     max-width: 100%;
     height: auto;
@@ -274,11 +274,29 @@ z-index: 3;
   transition: all 1.5s ease;
 }
 
-/* --- FIX: avatar más pequeño en pantallas muy angostas --- */
+/* --- FIX 2: avatar más pequeño en pantallas muy angostas --- */
 @media (max-width: 480px) {
   .box {
     width: 200px;
     height: 200px;
     top: 40px;
   }
+}
+
+/* --- FIX 3: contraste de los íconos sociales en modo oscuro --- */
+.dark .social-links li a {
+  color: #fff;
+}
+
+.dark .social-links li a:hover {
+  color: #0fadc9;
+}
+
+/* Bonus: los links del contenido también deben verse bien en modo oscuro */
+.dark .container a {
+  color: #4fd8f0;
+}
+
+.dark .container a:hover {
+  color: #0fadc9;
 }
