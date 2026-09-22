@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Wuilliam Gavidia | Blog de Desarrollo</title>
-    <link>https://williamgavidia.github.io/blog/projects/</link>
+    <link>http://localhost:62821/blog/projects/</link>
     <description>Recent content in Projects on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://williamgavidia.github.io/blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62821/blog/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
