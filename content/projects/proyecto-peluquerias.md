@@ -1,6 +1,6 @@
 ---
 categories: ["projects"]
-date: 2026-09-18T22:55:05-04:00
+date: "2026-09-18T22:55:05-04:00"
 description: "Sistema web para la administración de peluquerías, desarrollado con PHP, MySQL y Apache (XAMPP)."
 tags: ["Proyectos", "PHP", "MySQL", "Sistema de gestion"]
 title: "Sistema de Gestión para Peluquerías"
