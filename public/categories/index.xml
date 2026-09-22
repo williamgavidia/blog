@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 26 Nov 2023 18:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:55:05 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/blog/categories/projects/</link>
+      <pubDate>Fri, 18 Sep 2026 22:55:05 -0400</pubDate>
+      <guid>http://localhost:1313/blog/categories/projects/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Programacion</title>
       <link>http://localhost:1313/blog/categories/programacion/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/blog/categories/git/</link>
       <pubDate>Sat, 11 Nov 2023 04:27:07 -0500</pubDate>
       <guid>http://localhost:1313/blog/categories/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/blog/categories/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>http://localhost:1313/blog/categories/projects/</guid>
       <description></description>
     </item>
   </channel>

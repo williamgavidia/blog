@@ -40,10 +40,10 @@ publishDir = "docs"
         weight= 300
 
     [[menu.main]]
-        identifier = "proyectos"
+        identifier = "projects"
         name = "Proyectos"
         title = "Proyectos"
-        url = "/proyectos/"
+        url = "/projects/"
         weight = 400
 
 [services]

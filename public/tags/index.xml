@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:55:05 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:1313/blog/tags/mysql/</link>
+      <pubDate>Fri, 18 Sep 2026 22:55:05 -0400</pubDate>
+      <guid>http://localhost:1313/blog/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PHP</title>
+      <link>http://localhost:1313/blog/tags/php/</link>
+      <pubDate>Fri, 18 Sep 2026 22:55:05 -0400</pubDate>
+      <guid>http://localhost:1313/blog/tags/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proyectos</title>
+      <link>http://localhost:1313/blog/tags/proyectos/</link>
+      <pubDate>Fri, 18 Sep 2026 22:55:05 -0400</pubDate>
+      <guid>http://localhost:1313/blog/tags/proyectos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sistema De Gestion</title>
+      <link>http://localhost:1313/blog/tags/sistema-de-gestion/</link>
+      <pubDate>Fri, 18 Sep 2026 22:55:05 -0400</pubDate>
+      <guid>http://localhost:1313/blog/tags/sistema-de-gestion/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Desarrollador Web</title>
       <link>http://localhost:1313/blog/tags/desarrollador-web/</link>
@@ -27,13 +55,6 @@
       <link>http://localhost:1313/blog/tags/lenguaje-de-programacion/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/tags/lenguaje-de-programacion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PHP</title>
-      <link>http://localhost:1313/blog/tags/php/</link>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tags/php/</guid>
       <description></description>
     </item>
     <item>
