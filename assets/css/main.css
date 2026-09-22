@@ -6,19 +6,19 @@ html, body {
     transition: all 1.5s ease;
   }
 
-  /* --- FIX 1: imágenes responsivas (nunca más anchas que su contenedor) --- */
+  /* --- FIX: imágenes responsivas (nunca más anchas que su contenedor) --- */
   img {
     max-width: 100%;
     height: auto;
   }
 
-  /* --- FIX 4: el footer sigue al contenido en vez de forzar el alto completo
-     de la pantalla (esto evita el espacio en blanco enorme en páginas con
-     pocos posts, como la última página de la paginación) --- */
   #content {
-  min-height: auto;
-  margin: 0;
-  padding: 0 0 40px;
+  min-height: 100%;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 0 122px;
+  /* Pad bottom by footer height */
+  padding: 0 0 116px;
 }
 
 .box 
@@ -274,29 +274,11 @@ z-index: 3;
   transition: all 1.5s ease;
 }
 
-/* --- FIX 2: avatar más pequeño en pantallas muy angostas --- */
+/* --- FIX: avatar más pequeño en pantallas muy angostas --- */
 @media (max-width: 480px) {
   .box {
     width: 200px;
     height: 200px;
     top: 40px;
   }
-}
-
-/* --- FIX 3: contraste de los íconos sociales en modo oscuro --- */
-.dark .social-links li a {
-  color: #fff;
-}
-
-.dark .social-links li a:hover {
-  color: #0fadc9;
-}
-
-/* Bonus: los links del contenido también deben verse bien en modo oscuro */
-.dark .container a {
-  color: #4fd8f0;
-}
-
-.dark .container a:hover {
-  color: #0fadc9;
 }
