@@ -39,6 +39,13 @@ publishDir = "docs"
         url = "/post/"
         weight= 300
 
+    [[menu.main]]
+        identifier = "proyectos"
+        name = "Proyectos"
+        title = "Proyectos"
+        url = "/proyectos/"
+        weight = 400
+
 [services]
   [services.googleAnalytics]
     ID = 'G-7392E94N79'

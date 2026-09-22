@@ -38,4 +38,4 @@ Me encanta todo lo relacionado con la informática y el mundo tecnologico.
 Contactame [@username] o por [email].
 
 [@username]: https://twitter.com/Wzerpa_g
-[email]: mailto:zerpaw@gmai.com
+[email]: mailto:zerpaw@gmail.com
