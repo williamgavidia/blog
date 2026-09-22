@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lenguaje De Programacion on Wuilliam Gavidia | Blog de Desarrollo</title>
-    <link>http://localhost:62821/blog/tags/lenguaje-de-programacion/</link>
+    <link>https://williamgavidia.github.io/blog/tags/lenguaje-de-programacion/</link>
     <description>Recent content in Lenguaje De Programacion on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62821/blog/tags/lenguaje-de-programacion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://williamgavidia.github.io/blog/tags/lenguaje-de-programacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHP vs JavaScript: diferencias y usos en el desarrollo web</title>
-      <link>http://localhost:62821/blog/post/php-vs-javascript/</link>
+      <link>https://williamgavidia.github.io/blog/post/php-vs-javascript/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/post/php-vs-javascript/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/php-vs-javascript/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xA;&lt;img src=&#34;../../img/php_versus_JavaScript.jpeg&#34; width=&#34;800&#34; height=&#34;300&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Si estás empezando en el desarrollo web, es casi seguro que te has topado con esta pregunta: &lt;strong&gt;¿PHP o JavaScript?&lt;/strong&gt; La realidad es que no son rivales — cada uno resuelve un problema distinto, y en la mayoría de los proyectos reales terminan trabajando juntos.&lt;/p&gt;&#xA;&lt;h4 id=&#34;qué-es-php&#34;&gt;¿Qué es PHP?&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt; es un lenguaje de &lt;strong&gt;backend&lt;/strong&gt;: se ejecuta en el servidor, procesa datos, se conecta a bases de datos y genera el HTML que finalmente ve el usuario. Es la base de proyectos como WordPress, y de frameworks como Laravel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducción a Laravel: El framework PHP más popular</title>
-      <link>http://localhost:62821/blog/post/introduccion-laravel/</link>
+      <link>https://williamgavidia.github.io/blog/post/introduccion-laravel/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/post/introduccion-laravel/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/introduccion-laravel/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/logo-laravel.png&#34; width=&#34;800&#34; height=&#34;300&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;En el mundo del desarrollo web, &lt;strong&gt;Laravel&lt;/strong&gt; se ha ganado un lugar privilegiado como el &lt;strong&gt;framework PHP más utilizado y valorado por la comunidad&lt;/strong&gt;. Su enfoque elegante, moderno y expresivo ha transformado la forma en que los desarrolladores construyen aplicaciones web con PHP.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;qué-es-laravel&#34;&gt;¿Qué es Laravel?&lt;/h4&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Laravel&lt;/strong&gt; es un framework de código abierto para PHP, creado por &lt;strong&gt;Taylor Otwell&lt;/strong&gt; en 2011. Está diseñado para hacer que el desarrollo web sea más fácil y limpio, proporcionando una sintaxis clara y herramientas modernas para construir aplicaciones robustas y escalables.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cómo instalar un entorno PHP en tu computadora</title>
-      <link>http://localhost:62821/blog/post/instalar-php/</link>
+      <link>https://williamgavidia.github.io/blog/post/instalar-php/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/post/instalar-php/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/instalar-php/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/PHP-logo.png&#34; width=&#34;500&#34; height=&#34;400&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.php.net/&#34;&gt;PHP&lt;/a&gt; sigue siendo uno de los lenguajes de programación más utilizados para el desarrollo web. Si estás empezando o necesitas un entorno local para trabajar en tus proyectos, en esta guía te enseñaré cómo instalar todo lo necesario para ejecutar PHP en tu computadora, paso a paso.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;qué-necesitas-para-trabajar-con-php&#34;&gt;¿Qué necesitas para trabajar con PHP?&lt;/h4&gt;&#xA;&lt;br&gt;&#xD;&#xA;Un entorno PHP básico incluye:&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PHP&lt;/strong&gt; (el lenguaje en sí)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Servidor web&lt;/strong&gt; (como Apache o Nginx)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Base de datos&lt;/strong&gt; (como MySQL o MariaDB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Editor de código&lt;/strong&gt; (como VS Code, Sublime Text o PHPStorm)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Para facilitar la instalación de todo esto, puedes optar por un paquete &amp;ldquo;todo en uno&amp;rdquo; o instalar los componentes por separado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introducción a PHP: El lenguaje que dio vida a la web dinámica</title>
-      <link>http://localhost:62821/blog/post/que-es-php/</link>
+      <link>https://williamgavidia.github.io/blog/post/que-es-php/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/post/que-es-php/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/que-es-php/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/PHP-logo.png&#34; width=&#34;500&#34; height=&#34;400&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt; (&lt;em&gt;Hypertext Preprocessor&lt;/em&gt;) es uno de los lenguajes de programación más influyentes en la historia del desarrollo web. Desde sus inicios en 1994, ha evolucionado constantemente hasta convertirse en una herramienta poderosa, eficiente y aún vigente en el desarrollo de aplicaciones web modernas.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;qué-es-php&#34;&gt;¿Qué es PHP?&lt;/h3&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.php.net/&#34;&gt;PHP&lt;/a&gt; es un lenguaje de programación de código abierto, orientado principalmente al desarrollo del lado del servidor. Esto significa que se ejecuta en el servidor web, generando contenido dinámico que luego es enviado al navegador del usuario.&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Python: ¿Qué es y para qué sirve?</title>
-      <link>http://localhost:62821/blog/post/que-es-python/</link>
+      <link>https://williamgavidia.github.io/blog/post/que-es-python/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/post/que-es-python/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/que-es-python/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/python-logo.png&#34; width=&#34;500&#34; height=&#34;200&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt; es un lenguaje de programación de alto nivel, adaptable y con una sintaxis nítida y comprensible. Esto lo hace una magnífica elección tanto para novatos como para programadores con experiencia.&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;qué-lo-hace-tan-popular&#34;&gt;¿Qué lo hace tan popular?&lt;/h3&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Facilidad de aprendizaje:&lt;/strong&gt; Su sintaxis simple se asemeja al lenguaje natural, facilitando la comprensión y el desarrollo de código.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Versatilidad:&lt;/strong&gt; Python se utiliza en una amplia gama de aplicaciones.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gran comunidad y soporte:&lt;/strong&gt; Cuenta con una comunidad activa que ofrece abundante documentación, bibliotecas y frameworks.&#xA;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;para-qué-sirve-python&#34;&gt;¿Para qué sirve Python?&lt;/h3&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;Su uso es diverso, incluyendo:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Que es GITHUB</title>
-      <link>http://localhost:62821/blog/post/que-es-github/</link>
+      <link>https://williamgavidia.github.io/blog/post/que-es-github/</link>
       <pubDate>Tue, 06 Feb 2024 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/post/que-es-github/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/que-es-github/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/GitHub_Logo.png&#34; width=&#34;550&#34; height=&#34;200&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Github&lt;/strong&gt; es un servicio de alojamiento de repositorio de Git de código abierto y basado en la nube con una interfaz gráfica basada en la web.&lt;/p&gt;&#xA;&lt;p&gt;Como desarrollador web, esta puede ser una excelente plataforma para desarrollar una marca personal y ampliar tus redes. Además, GitHub ofrece herramientas de gestión de proyectos adaptables que ayudan a las organizaciones adaptarse a cualquier flujo de trabajo, proyecto o equipo.&lt;/p&gt;&#xA;&lt;p&gt;GitHub ofrece un plan gratuito que incluye 500 MB de espacio de almacenamiento, así como repositorios y colaboradores ilimitados.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Que es GO</title>
-      <link>http://localhost:62821/blog/post/que-es-go/</link>
+      <link>https://williamgavidia.github.io/blog/post/que-es-go/</link>
       <pubDate>Sun, 07 Jan 2024 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/post/que-es-go/</guid>
+      <guid>https://williamgavidia.github.io/blog/post/que-es-go/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../../img/Go-Logo_Black.png&#34; width=&#34;350&#34; height=&#34;200&#34;/&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Go&lt;/strong&gt; es un lenguaje de programación de código abierto creado por Google. Es un lenguaje de programación compilado diseñado para ser seguro, eficiente y conciso.&lt;/p&gt;&#xA;&lt;p&gt;Su enfoque en la concurrencia, su sintaxis clara y sencilla y su capacidad para manejar grandes sistemas son los principales atributos de Go.&lt;/p&gt;&#xA;&lt;p&gt;El soporte integrado para la concurrencia de &lt;a href=&#34;https://go.dev/&#34;&gt;GO&lt;/a&gt; es una de sus características distintivas. Los primitivos de concurrencia de Go, como los goroutines y los canales, facilitan la escritura segura de programas concurrentes. Esto facilita que los programadores creen aplicaciones capaces de realizar múltiples tareas de manera eficiente.&lt;/p&gt;</description>
     </item>
   </channel>

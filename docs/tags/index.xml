@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wuilliam Gavidia | Blog de Desarrollo</title>
-    <link>http://localhost:62821/blog/tags/</link>
+    <link>https://williamgavidia.github.io/blog/tags/</link>
     <description>Recent content in Tags on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62821/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://williamgavidia.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desarrollador Web</title>
-      <link>http://localhost:62821/blog/tags/desarrollador-web/</link>
+      <link>https://williamgavidia.github.io/blog/tags/desarrollador-web/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/desarrollador-web/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/desarrollador-web/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:62821/blog/tags/javascript/</link>
+      <link>https://williamgavidia.github.io/blog/tags/javascript/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/javascript/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Lenguaje De Programacion</title>
-      <link>http://localhost:62821/blog/tags/lenguaje-de-programacion/</link>
+      <link>https://williamgavidia.github.io/blog/tags/lenguaje-de-programacion/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/lenguaje-de-programacion/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/lenguaje-de-programacion/</guid>
       <description></description>
     </item>
     <item>
       <title>PHP</title>
-      <link>http://localhost:62821/blog/tags/php/</link>
+      <link>https://williamgavidia.github.io/blog/tags/php/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/php/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Aplicaciones</title>
-      <link>http://localhost:62821/blog/tags/aplicaciones/</link>
+      <link>https://williamgavidia.github.io/blog/tags/aplicaciones/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/aplicaciones/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/aplicaciones/</guid>
       <description></description>
     </item>
     <item>
       <title>Frameworks</title>
-      <link>http://localhost:62821/blog/tags/frameworks/</link>
+      <link>https://williamgavidia.github.io/blog/tags/frameworks/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/frameworks/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/frameworks/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:62821/blog/tags/software/</link>
+      <link>https://williamgavidia.github.io/blog/tags/software/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62821/blog/tags/software/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Emulador</title>
-      <link>http://localhost:62821/blog/tags/emulador/</link>
+      <link>https://williamgavidia.github.io/blog/tags/emulador/</link>
       <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/emulador/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/emulador/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:62821/blog/tags/linux/</link>
+      <link>https://williamgavidia.github.io/blog/tags/linux/</link>
       <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/linux/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Terminal</title>
-      <link>http://localhost:62821/blog/tags/terminal/</link>
+      <link>https://williamgavidia.github.io/blog/tags/terminal/</link>
       <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/terminal/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/terminal/</guid>
       <description></description>
     </item>
     <item>
       <title>Termux</title>
-      <link>http://localhost:62821/blog/tags/termux/</link>
+      <link>https://williamgavidia.github.io/blog/tags/termux/</link>
       <pubDate>Tue, 28 Jan 2025 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/termux/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/termux/</guid>
       <description></description>
     </item>
     <item>
       <title>Control De Versiones</title>
-      <link>http://localhost:62821/blog/tags/control-de-versiones/</link>
+      <link>https://williamgavidia.github.io/blog/tags/control-de-versiones/</link>
       <pubDate>Tue, 06 Feb 2024 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/control-de-versiones/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/control-de-versiones/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>http://localhost:62821/blog/tags/git/</link>
+      <link>https://williamgavidia.github.io/blog/tags/git/</link>
       <pubDate>Tue, 06 Feb 2024 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/git/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>http://localhost:62821/blog/tags/google/</link>
+      <link>https://williamgavidia.github.io/blog/tags/google/</link>
       <pubDate>Sun, 07 Jan 2024 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/google/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Debian</title>
-      <link>http://localhost:62821/blog/tags/debian/</link>
+      <link>https://williamgavidia.github.io/blog/tags/debian/</link>
       <pubDate>Sat, 11 Nov 2023 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/debian/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/debian/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>http://localhost:62821/blog/tags/go/</link>
+      <link>https://williamgavidia.github.io/blog/tags/go/</link>
       <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/go/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:62821/blog/tags/hugo/</link>
+      <link>https://williamgavidia.github.io/blog/tags/hugo/</link>
       <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/hugo/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Sitios Estaticos</title>
-      <link>http://localhost:62821/blog/tags/sitios-estaticos/</link>
+      <link>https://williamgavidia.github.io/blog/tags/sitios-estaticos/</link>
       <pubDate>Fri, 03 Nov 2023 04:27:07 -0500</pubDate>
-      <guid>http://localhost:62821/blog/tags/sitios-estaticos/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/sitios-estaticos/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:62821/blog/tags/projects/</link>
+      <link>https://williamgavidia.github.io/blog/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>http://localhost:62821/blog/tags/projects/</guid>
+      <guid>https://williamgavidia.github.io/blog/tags/projects/</guid>
       <description></description>
     </item>
   </channel>
