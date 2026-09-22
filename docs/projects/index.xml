@@ -6,12 +6,12 @@
     <description>Recent content in Projects on Wuilliam Gavidia | Blog de Desarrollo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:55:05 -0400</lastBuildDate>
     <atom:link href="https://williamgavidia.github.io/blog/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sistema de Gestión para Peluquerías</title>
       <link>https://williamgavidia.github.io/blog/projects/proyecto-peluquerias/</link>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:55:05 -0400</pubDate>
       <guid>https://williamgavidia.github.io/blog/projects/proyecto-peluquerias/</guid>
       <description>&lt;p&gt;Este es un proyecto personal en el que estoy trabajando actualmente: un &lt;strong&gt;sistema de gestión integral para peluquerías&lt;/strong&gt;, pensado para digitalizar y ordenar la administración diaria de este tipo de negocios.&lt;/p&gt;&#xA;&lt;h4 id=&#34;objetivo-del-proyecto&#34;&gt;Objetivo del proyecto&lt;/h4&gt;&#xA;&lt;p&gt;Muchas peluquerías todavía llevan el control de citas, clientes e inventario en cuadernos o en hojas de cálculo sueltas. Este sistema busca centralizar toda esa información en una sola plataforma web, fácil de usar tanto para el dueño del negocio como para los estilistas.&lt;/p&gt;</description>
     </item>
