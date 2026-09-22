@@ -4,7 +4,6 @@ date: "2026-09-18T22:55:05-04:00"
 description: "Sistema web para la administración de peluquerías, desarrollado con PHP, MySQL y Apache (XAMPP)."
 tags: ["Proyectos", "PHP", "MySQL", "Sistema de gestion"]
 title: "Sistema de Gestión para Peluquerías"
-draft: false
 ---
 
 Este es un proyecto personal en el que estoy trabajando actualmente: un **sistema de gestión integral para peluquerías**, pensado para digitalizar y ordenar la administración diaria de este tipo de negocios.
