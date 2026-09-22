@@ -6,6 +6,12 @@
     transition: all 1.5s ease;
   }
 
+  /* --- FIX 1: imágenes responsivas (nunca más anchas que su contenedor) --- */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
   #content {
   min-height: 100%;
   height: 100%;
@@ -22,6 +28,7 @@ place-items: center;
 top: 90px;
 width: 250px;
 height: 250px;
+max-width: 90vw;
 border-radius: 50%;
 overflow: hidden;
 }
@@ -266,9 +273,45 @@ z-index: 3;
   color: white;
   transition: all 1.5s ease;
 }
-  
 
-  
-  
-  
-  
+/* --- FIX 2: avatar más pequeño en pantallas muy angostas --- */
+@media (max-width: 480px) {
+  .box {
+    width: 200px;
+    height: 200px;
+    top: 40px;
+  }
+}
+
+/* --- FIX 3: contraste de los íconos sociales en modo oscuro --- */
+.dark .social-links li a {
+  color: #fff;
+}
+
+.dark .social-links li a:hover {
+  color: #0fadc9;
+}
+
+/* Bonus: los links del contenido también deben verse bien en modo oscuro */
+.dark .container a {
+  color: #4fd8f0;
+}
+
+.dark .container a:hover {
+  color: #0fadc9;
+}
+
+/* --- FIX 5: forzar que todos los íconos sociales se vean del mismo
+   tamaño y estilo, sin fondo ni círculo, sin importar la versión de
+   Font Awesome que termine aplicando --- */
+.social-links li a i,
+.social-links li a svg {
+  background: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  display: inline-block;
+  text-align: center;
+}
