@@ -2,6 +2,7 @@ baseURL = "https://williamgavidia.github.io/blog/"
 languageCode = "es-es"
 title = "Wuilliam Gavidia | Blog de Desarrollo"
 theme = "hugo-sustain"
+enableRobotsTXT = true
 
 publishDir = "docs"
 
