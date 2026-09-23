@@ -1,0 +1,6 @@
+name: "Proyectos"
+source:
+  - icon: "fa fa-code"
+    name: "Sistema de Gestión para Peluquerías"
+    description: "Sistema web para la administración de peluquerías (citas, clientes, empleados, inventario y reportes), desarrollado con PHP, MySQL y Apache (XAMPP)."
+    url: "/blog/projects/proyecto-peluquerias/"
