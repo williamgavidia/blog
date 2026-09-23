@@ -340,3 +340,39 @@ z-index: 3;
 #projects .panel-body h5 a:hover {
   color: #027185;
 }
+
+/* --- FIX 8: botones de compartir --- */
+.share-buttons .share-btn {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.9em;
+  text-decoration: none;
+  color: #fff !important;
+  transition: opacity .2s ease;
+}
+
+.share-buttons .share-btn:hover {
+  opacity: 0.85;
+}
+
+.share-twitter   { background-color: #1da1f2; }
+.share-whatsapp  { background-color: #25d366; }
+.share-linkedin  { background-color: #0077b5; }
+
+/* --- FIX 9: navegación anterior/siguiente entre posts --- */
+.post-nav a {
+  color: #06a0bb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.post-nav a:hover {
+  color: #027185;
+}
+
+/* --- FIX 10: que los tags como links se vean igual que antes (badges) --- */
+.blog-title .badge {
+  color: #fff !important;
+}

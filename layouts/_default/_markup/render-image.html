@@ -1,0 +1,11 @@
+{{/*
+  Este archivo controla cómo Hugo renderiza CUALQUIER imagen insertada
+  con la sintaxis de Markdown ![alt](ruta) en tus posts.
+  Le agrega loading="lazy" para que el navegador no cargue las imágenes
+  hasta que el usuario esté por llegar a ellas al hacer scroll.
+*/}}
+<img src="{{ .Destination | safeURL }}"
+     {{ with .Title }}title="{{ . }}"{{ end }}
+     alt="{{ .Text }}"
+     loading="lazy"
+     decoding="async" />
