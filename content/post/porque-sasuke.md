@@ -12,7 +12,7 @@ El nombre japonés _"SASUKE"_ se compone de los caracteres kanji _"Sa"_ y _"suke
 
 <div class="responsive">
 <p align="center">
-<img src="../../img/sasuke.jpg" width="800" height="400"/>
+<img src="../../img/sasuke.webp" width="800" height="400"/>
 </p>
 </div>
 

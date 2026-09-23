@@ -12,7 +12,7 @@ publishDir = "docs"
 
 [Params.author]
   name = "Wuilliam Gavidia Zerpa"
-  avatar = "img/profile.jpg"
+  avatar = "img/profile.webp"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []

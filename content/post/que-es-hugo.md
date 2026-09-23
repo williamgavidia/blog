@@ -7,7 +7,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../img/hugo.png" width="300" height="200"/>
+<img src="../../img/hugo.webp" width="300" height="200"/>
 </p>
 
 <br>

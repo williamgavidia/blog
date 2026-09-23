@@ -7,7 +7,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../img/Go-Logo_Black.png" width="350" height="200"/>
+<img src="../../img/Go-Logo_Black.webp" width="350" height="200"/>
 </p>
 
 ## <br>

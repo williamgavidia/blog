@@ -14,7 +14,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../img/PHP-logo.png" width="500" height="400"/>
+<img src="../../img/PHP-logo.webp" width="500" height="400"/>
 </p>
 <br>
 

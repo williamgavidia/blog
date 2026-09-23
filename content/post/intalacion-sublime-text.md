@@ -6,14 +6,14 @@ date: 2023-11-26 18:00:52
 categories: ["programacion"]
 ---
 
-<img src="../../img/sublimetext.png" class="center" />
+<img src="../../img/sublimetext.webp" class="center" />
 <br>
 
 > A continuación vamos a ver las tres sencillas líneas para tener instalado en nuestro sistema [Debian][debian] , [Ubuntu][ubuntu], [Linux Mint][linux mint] y sus derivadas uno de los mejores editores de texto que he podido probar, simple y potente [Sublime Text 3][sublime].
 
 <br><br>
 
-<img src="../../img/sublime.png" class="center" />
+<img src="../../img/sublime.webp" class="center" />
 
 <br>
 
@@ -44,7 +44,7 @@ Y ya está, aquí una captura de mi instalación, todo ha ido muy bien y ha sido
 <br>
 
 <br>
-<img src="../../img/sublime-text-linux-mint-ubuntu-debian.png" class="center" />
+<img src="../../img/sublime-text-linux-mint-ubuntu-debian.webp" class="center" />
 <br>
 <br>
 

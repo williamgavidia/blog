@@ -6,7 +6,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../img/GitHub_Logo.png" width="550" height="200"/>
+<img src="../../img/GitHub_Logo.webp" width="550" height="200"/>
 </p>
 
 ## <br>

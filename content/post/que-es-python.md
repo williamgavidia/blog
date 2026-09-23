@@ -8,7 +8,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../img/python-logo.png" width="500" height="200"/>
+<img src="../../img/python-logo.webp" width="500" height="200"/>
 </p>
 
 <br>
@@ -58,17 +58,17 @@ A continuación veremos como instalar Python:<br><br>
     - Haz clic en "Install" y espera a que el proceso de instalación se complete.<br><br>
 
         <p align="center">
-        <img src="../../img/python-instalador.png" width="500" height="250"/>
+        <img src="../../img/python-instalador.webp" width="500" height="250"/>
         </p>
         <br>
 
         <p align="center">
-        <img src="../../img/python-progreso.png" width="500" height="250"/>
+        <img src="../../img/python-progreso.webp" width="500" height="250"/>
         </p>
         <br>
 
         <p align="center">
-        <img src="../../img/python-finalizada.png" width="500" height="250"/>
+        <img src="../../img/python-finalizada.webp" width="500" height="250"/>
         </p>
         <br>
 
@@ -79,7 +79,7 @@ A continuación veremos como instalar Python:<br><br>
     - Si la instalación fue exitosa, la línea de comandos mostrará la versión de Python instalada en tu sistema.<br><br>
 
         <p align="center">
-        <img src="../../img/python-version.png" width="500" height="250"/>
+        <img src="../../img/python-version.webp" width="500" height="250"/>
         </p>
         <br>
 
@@ -89,7 +89,7 @@ A continuación veremos como instalar Python:<br><br>
     - Deberías ver la versión de pip instalada. Pip es esencial para instalar y gestionar bibliotecas y paquetes de Python.<br><br>
 
         <p align="center">
-        <img src="../../img/pip-version.png" width="500" height="250"/>
+        <img src="../../img/pip-version.webp" width="500" height="250"/>
         </p>
         <br>
 

@@ -14,7 +14,7 @@ draft: false
 ---
 
 <p align="center">
-<img src="../../img/logo-laravel.png" width="800" height="300"/>
+<img src="../../img/logo-laravel.webp" width="800" height="300"/>
 </p>
 
 En el mundo del desarrollo web, **Laravel** se ha ganado un lugar privilegiado como el **framework PHP más utilizado y valorado por la comunidad**. Su enfoque elegante, moderno y expresivo ha transformado la forma en que los desarrolladores construyen aplicaciones web con PHP.
