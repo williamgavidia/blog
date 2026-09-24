@@ -53,11 +53,11 @@ Muchas peluquerías todavía llevan el control de citas, clientes e inventario e
 <br>
 
 
-![Panel principal del sistema](/blog/static/img/proyecto-peluquerias-dashboard.webp)
+![Panel principal del sistema](/blog/img/proyecto-peluquerias-dashboard.webp)
 
-![Gestión de citas](/blog/static/img/proyecto-peluquerias-citas.webp)
+![Gestión de citas](/blog/img/proyecto-peluquerias-citas.webp)
 
-![Inventario de productos](/blog/static/img/proyecto-peluquerias-inventario.webp)
+![Inventario de productos](/blog/img/proyecto-peluquerias-inventario.webp)
 <br>
 <br>
 
