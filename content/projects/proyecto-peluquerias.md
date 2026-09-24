@@ -53,17 +53,11 @@ Muchas peluquerías todavía llevan el control de citas, clientes e inventario e
 <br>
 
 
-<!--
-Reemplaza estas líneas con tus imágenes reales.
-1. Sube tus capturas a la carpeta static/img/proyectos/ de tu repositorio.
-2. Cambia "nombre-de-tu-imagen.png" por el nombre real del archivo.
--->
+![Panel principal del sistema](/blog/static/img/proyecto-peluquerias-dashboard.webp)
 
-![Panel principal del sistema](/blog/img/proyectos/proyecto-peluquerias-dashboard.webp)
+![Gestión de citas](/blog/static/img/proyecto-peluquerias-citas.webp)
 
-![Gestión de citas](/blog/img/proyectos/proyecto-peluquerias-citas.webp)
-
-![Inventario de productos](/blog/img/proyectos/proyecto-peluquerias-inventario.webp)
+![Inventario de productos](/blog/static/img/proyecto-peluquerias-inventario.webp)
 <br>
 <br>
 
